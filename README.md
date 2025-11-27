@@ -35,7 +35,7 @@ A command-line inventory and sales management system for grocery stores, built w
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/grocery-shop-management.git
+git clone https://github.com/Glaecier/Grocery_Shop_Management.git
 cd grocery-shop-management
 ```
 
