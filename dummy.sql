@@ -1,1 +1,0 @@
-#The .py file contains both Python and embedded MySQL code in it, but GitHub Linguist cannot identify embedded syntax. Therefore, this dummy .sql file was created so that both languages could be shown for the repo.
