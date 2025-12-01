@@ -1,6 +1,7 @@
 # Grocery Shop Management System
 
 A command-line inventory and sales management system for grocery stores, built with Python and MySQL. Features separate interfaces for shop owners and customers with real-time inventory tracking.
+Written in Python with Embedded MySQL.
 
 ## Features
 
